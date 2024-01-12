@@ -15,6 +15,12 @@ const CONFIG = {
   imageBackground: false,
   openInNewTab: false,
   twelveHourFormat: false,
+  
+  // Autochange
+  autoChangeTheme: true,
+
+  // Autochange by OS
+  changeThemeByOS: true, 
 
   // Greetings
   greetingMorning: "Morning, motherfker",
