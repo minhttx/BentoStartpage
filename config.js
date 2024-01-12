@@ -11,16 +11,16 @@ const CONFIG = {
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
-  name: "Phuoc",
+  name: "Mikazuki Augus",
   imageBackground: false,
   openInNewTab: false,
   twelveHourFormat: false,
 
   // Greetings
-  greetingMorning: "おはよう~ <3",
-  greetingAfternoon: "こんにちは~",
-  greetingEvening: "こんばんは~",
-  greetingNight: "寝てください!!!",
+  greetingMorning: "Morning, motherfker",
+  greetingAfternoon: "Yo!",
+  greetingEvening: "Need some coffee?",
+  greetingNight: "Go to sleep, bro!!!",
 
   // Layout
   bentoLayout: "bento", // 'bento', 'lists', 'buttons', 
